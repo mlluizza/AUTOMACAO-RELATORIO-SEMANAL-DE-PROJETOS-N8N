@@ -1,10 +1,21 @@
 # Projeto de Automação para Relatório Executivo Semanal com n8n e IA
 
 ### 1️⃣ Descrição do Projeto
-Este projeto foi desenvolvido para automatizar a criação e o envio de um briefing executivo semanal para a gestão da agência de marketing digital FlowWorks por meio do n8n[cite: 2]. O fluxo analisa os dados dos projetos e utiliza uma IA para gerar um relatório resumido, enviando a mensagem diretamente no Slack toda a segunda-feira de manhã. 
+Este projeto foi desenvolvido para automatizar a criação e o envio de um briefing executivo semanal para a gestão da agência de marketing digital FlowWorks por meio do n8n. O fluxo analisa os dados dos projetos e utiliza uma IA para gerar um relatório resumido, enviando a mensagem diretamente no Slack toda a segunda-feira de manhã. 
+
+### 📸 Demonstração do Projeto
+
+**Slack:**
+<img width="1583" height="387" alt="Image" src="https://github.com/user-attachments/assets/6d0ec0fa-3f7f-4b81-b541-25b563d7446d" />
+
+**Envio da Mensagem Automática no Slack:**
+<img width="1378" height="312" alt="Image" src="https://github.com/user-attachments/assets/c60ce878-f8aa-4d5e-b4fb-ddbc91651b9a" />
+
+**Fluxo construído no n8n:**
+<img width="1651" height="610" alt="Image" src="https://github.com/user-attachments/assets/2deecdcc-2811-4d16-8ef3-dbd9ad333adc" />
 
 ### 2️⃣ Objetivo
-Automatizar a prestação de contas do estado dos projetos, gerando relatórios executivos rápidos para que o gestor saiba o que fazer na semana em apenas 30 segundos de leitura[cite: 2]. O foco é eliminar a visualização de dados crus e destacar apenas o que realmente importa.
+Automatizar a prestação de contas do estado dos projetos, gerando relatórios executivos rápidos para que o gestor saiba o que fazer na semana em apenas 30 segundos de leitura. O foco é eliminar a visualização de dados crus e destacar apenas o que realmente importa.
 
 ### 3️⃣ Funcionalidades
 - Processamento de dados de projetos e análise inteligente de estado.
@@ -24,11 +35,11 @@ Automatizar a prestação de contas do estado dos projetos, gerando relatórios 
 - n8n (Fluxos de automação / Workflows)
 - Inteligência Artificial (Modelos LLM)
 - Slack (Mensagens e notificações)
-- JSON (Estruturação dos dados dos projetos)
+- Banco de Dados (Origem das informações)
 
 ### 6️⃣ Benefícios da automação
 - Leitura rápida e objetiva, totalmente otimizada para o telemóvel.
 - Direcionamento estratégico direto para as prioridades, sem enrolação.
 - Redução drástica do trabalho manual de recolha de dados para relatórios.
-- Tomada de decisão facilitada por um assistente com tom executivo e direto, simulando um colega experiente que já filtrou as informações.
+- Tomada de decisão facilitada por um assistente com tom executivo e direto.
 - Maior controlo sobre o andamento dos clientes e mitigação rápida de atrasos.
