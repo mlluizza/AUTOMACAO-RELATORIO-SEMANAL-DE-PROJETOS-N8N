@@ -5,7 +5,7 @@ Este projeto foi desenvolvido para automatizar a criação e o envio de um brief
 
 ### 📸 Demonstração do Projeto
 
-**Slack:**
+**Notion:**
 <img width="1583" height="387" alt="Image" src="https://github.com/user-attachments/assets/6d0ec0fa-3f7f-4b81-b541-25b563d7446d" />
 
 **Envio da Mensagem Automática no Slack:**
@@ -35,7 +35,7 @@ Automatizar a prestação de contas do estado dos projetos, gerando relatórios 
 - n8n (Fluxos de automação / Workflows)
 - Inteligência Artificial (Modelos LLM)
 - Slack (Mensagens e notificações)
-- Banco de Dados (Origem das informações)
+- Notion
 
 ### 6️⃣ Benefícios da automação
 - Leitura rápida e objetiva, totalmente otimizada para o telemóvel.
