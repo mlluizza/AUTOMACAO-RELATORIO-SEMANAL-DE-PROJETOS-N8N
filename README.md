@@ -43,3 +43,4 @@ Automatizar a prestação de contas do estado dos projetos, gerando relatórios 
 - Redução drástica do trabalho manual de recolha de dados para relatórios.
 - Tomada de decisão facilitada por um assistente com tom executivo e direto.
 - Maior controlo sobre o andamento dos clientes e mitigação rápida de atrasos.
+  
